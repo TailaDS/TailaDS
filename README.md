@@ -9,17 +9,14 @@
 </div> -->
 
 <div>
-  <div align="left">
+  <div align="center">
     <ul> Sobre mim:
       <li>🔭 Estudante de Desenvolvimento Web na Trybe (out/2021 a out/2022)</li>
       <li>🌱 Atualmente estou no módulo de BackEnd, aprendendo MySQL</li>
       <li>😄 Pronomes: ela/dela</li>
     <ul>
+    <img align="right" alt="Bitmoji Táila tomando café" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/966723153881600073/966723369208774686/espresso_drink.png?width=434&height=434">
   </div>
 
   ![Snake animation](https://github.com/TailaDS/TailaDS/blob/output/github-contribution-grid-snake.svg)
-
-  <div align="right">
-    <img align="right" alt="Bitmoji Táila tomando café" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/966723153881600073/966723369208774686/espresso_drink.png?width=434&height=434">
-  </div>
 </div>
