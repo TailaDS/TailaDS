@@ -1,6 +1,6 @@
-### Olá, eu sou a Táila Sploradori!
+## Olá, eu sou a Táila Sploradori!
 
-## 🚧Perfil em construção!👷🏼‍♀️
+### 🚧Perfil em construção!👷🏼‍♀️
 
 <!-- <div align="left">
   <a href="https://github.com/TailaDS">
@@ -10,9 +10,10 @@
 
 <div>
   <div align="left">
-    ## Sobre mim:
-    - 🔭 Estudante de Desenvolvimento Web na Trybe (out/2021 a out/2022)
-    - 🌱 Atualmente estou no módulo de BackEnd, aprendendo MySQL
-    - 😄 Pronomes: ela/dela
+    <ul> Sobre mim:
+      <li>🔭 Estudante de Desenvolvimento Web na Trybe (out/2021 a out/2022)</li>
+      <li>🌱 Atualmente estou no módulo de BackEnd, aprendendo MySQL</li>
+      <li>😄 Pronomes: ela/dela</li>
+    <ul>
   </div>
 
