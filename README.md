@@ -17,3 +17,7 @@
     <ul>
   </div>
 
+  <div align="right">
+    <img align="right" alt="Bitmoji Táila tomando café" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/966723153881600073/966723369208774686/espresso_drink.png?width=434&height=434">
+  </div>
+</div>
