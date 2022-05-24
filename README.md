@@ -1,6 +1,6 @@
 # <>Hello World!🌎</>
 
-Meu nome é Táila, sou capixaba, estou fazendo transição de carreira da administração para a área da tecnologia, especificamente Desenvolvimento Web. Cursando a [Trybe](https://www.betrybe.com/), concluí pelo módulo de Fundamentos do Desenvolvimento Web e FrontEnd, atualmente estou no módulo de BackEnd.
+Meu nome é Táila, sou capixaba, estou fazendo transição de carreira da administração para a área da tecnologia, especificamente Desenvolvimento Web. Cursando a [Trybe](https://www.betrybe.com/), concluí o módulo de Fundamentos do Desenvolvimento Web e FrontEnd, atualmente estou no módulo de BackEnd.
 
 ---
 ## Sumário
