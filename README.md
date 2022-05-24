@@ -11,15 +11,23 @@ Meu nome é Táila, sou capixaba, estou fazendo transição de carreira da admin
 ## Mais Sobre
 * 😄 Pronomes: Ela/Dela.
 * 🔭 Estudante de Desenvolvimento Web na Trybe (out/2021 a out/2022).
-* 🌱 Aprendendo Docker e MySQL.
+* 🌱 Aprendendo Node.js.
 * 🪘 Pagodeira.
 * ⚽ Fã de Futevôlei.
 
 ## Skills
+* Git
+* GitHub
 * HTML
 * CSS
 * JavaScript
 * React
+* Redux
+* Hooks
+* Context API
+* Consumo de APIs
+* Docker
+* MySQL
 * CorelDraw
 
 <!-- <a href="https://github.com/TailaDS">
