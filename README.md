@@ -11,8 +11,7 @@ Meu nome é Táila, sou capixaba, estou fazendo transição de carreira da admin
 ## Mais Sobre
 * 😄 Pronomes: Ela/Dela.
 * 🔭 Estudante de Desenvolvimento Web na Trybe (out/2021 a out/2022).
-* 🌱 Aprendendo Node.js.
-* 🪘 Pagodeira.
+* 🌱 Aprendendo TypeScript.
 * ⚽ Fã de Futevôlei.
 
 ## Skills
