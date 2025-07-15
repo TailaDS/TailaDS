@@ -15,8 +15,6 @@ Sou uma profissional dedicada e apaixonada por tecnologia, com uma transição d
 - UI/UX: Figma, Material Design, criação de interfaces responsivas;
 - Plataformas: Android (Kotlin/Flutter), iOS (Flutter) e Web (React).
 
-## Mais Sobre
-
 ## Contato
   <a href="https://www.linkedin.com/in/tailasploradori/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:tailaspl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
